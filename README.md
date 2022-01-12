@@ -27,7 +27,8 @@ b="{:.2f}".format(ans)
 print(b)
 ```
 ## Sample Input and Output:
-![norm1](./norm.png)
+![norm1](https://user-images.githubusercontent.com/93427208/149139816-1e584336-cdc4-47c2-af09-401ec433a176.png)
+
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
